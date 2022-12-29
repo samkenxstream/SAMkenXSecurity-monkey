@@ -21,7 +21,7 @@ boto==2.49.0
 botocore<1.16.0,>=1.15.12
 celery==4.4.0
 cloudaux==1.8.4
-cryptography==2.8
+cryptography==3.3.2
 deepdiff==5.0.2
 dpath==2.0.1
 flask-marshmallow==0.10.1
